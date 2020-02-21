@@ -1,0 +1,25 @@
+
+.navigationItem {
+    display: inline-block; // w jednej lini
+    margin-right: 50px;
+    list-style: none;
+
+    &Link {
+        text-decoration: none;
+        color: #818181;
+    }
+
+
+}
+
+.navigationItemLinkActive {
+    font-weight: 700;
+}
+
+.header__wrapper {
+    display: grid;
+    grid-template-columns: 120px 1fr 100px;
+    align-items: center;
+    padding: 30px 40px;
+}
+
