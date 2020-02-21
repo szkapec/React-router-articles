@@ -110,7 +110,7 @@ class Root extends React.Component {
       // <Modal/>  //dododawania nowych twitterow noatek i artykulow
       // <AppContext.Provider> utworzone dla propsow zeby przyjmowaly wszystkie dzieci itd
 
-      <BrowserRouter>  
+      <BrowserRouter  basename={process.env.PUBLIC_URL}>  
       <AppContext.Provider value={contextElement}>
           <Header openModalFn={this.openModal}/>
           <Switch>
