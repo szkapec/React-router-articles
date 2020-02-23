@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React-router-articles/static/css/main.d540c638.chunk.css",
-    "main.js": "/React-router-articles/static/js/main.ef94a951.chunk.js",
-    "main.js.map": "/React-router-articles/static/js/main.ef94a951.chunk.js.map",
+    "main.js": "/React-router-articles/static/js/main.1de6c742.chunk.js",
+    "main.js.map": "/React-router-articles/static/js/main.1de6c742.chunk.js.map",
     "runtime-main.js": "/React-router-articles/static/js/runtime-main.7a2bc460.js",
     "runtime-main.js.map": "/React-router-articles/static/js/runtime-main.7a2bc460.js.map",
     "static/js/2.94fd7a41.chunk.js": "/React-router-articles/static/js/2.94fd7a41.chunk.js",
     "static/js/2.94fd7a41.chunk.js.map": "/React-router-articles/static/js/2.94fd7a41.chunk.js.map",
     "index.html": "/React-router-articles/index.html",
-    "precache-manifest.f5796ed4e5d993e7dd30bb63abaa0315.js": "/React-router-articles/precache-manifest.f5796ed4e5d993e7dd30bb63abaa0315.js",
+    "precache-manifest.45d3fa7939f672768c1411a146bffb12.js": "/React-router-articles/precache-manifest.45d3fa7939f672768c1411a146bffb12.js",
     "service-worker.js": "/React-router-articles/service-worker.js",
     "static/css/main.d540c638.chunk.css.map": "/React-router-articles/static/css/main.d540c638.chunk.css.map",
     "static/js/2.94fd7a41.chunk.js.LICENSE.txt": "/React-router-articles/static/js/2.94fd7a41.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.7a2bc460.js",
     "static/js/2.94fd7a41.chunk.js",
     "static/css/main.d540c638.chunk.css",
-    "static/js/main.ef94a951.chunk.js"
+    "static/js/main.1de6c742.chunk.js"
   ]
 }
